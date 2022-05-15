@@ -1,0 +1,27 @@
+{
+  "name": "ThinhPN logo",
+  "description": "This is my first logo my first NFT collection",
+  "image": "https://ipfs.io/ipfs/QmNx9iHRXM522CpqbpXWoHjPjUhbtqqLFQDu7c6geaD9ft",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Power",
+      "value": 5,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Magic",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Blood",
+      "value": 9,
+      "max_value": 10
+    }
+  ]
+}
